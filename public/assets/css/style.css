@@ -17,4 +17,26 @@ li {
   .form-group {
     margin-bottom: 5px;
   }
-  
+
+img{
+    max-width: 200px;
+}  
+
+body{
+    text-align: center;
+    background-color: goldenrod;
+}
+
+.column{
+    width: 49%;
+    float: left;
+}
+
+textarea{
+    max-width: auto;
+}
+
+.burger-entry{
+    width:30%;
+    height:150px;
+}
