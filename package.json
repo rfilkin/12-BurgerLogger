@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/rfilkin/13-BurgerLogger#readme",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.21.1",
     "express-handlebars": "^5.3.1",
     "mysql": "^2.18.1"
   }
